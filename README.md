@@ -39,3 +39,9 @@ cmp.setup({
   })
 })
 ```
+
+Usage
+-----
+
+Enjoy autocompleting obscure named colors!
+
