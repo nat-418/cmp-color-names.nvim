@@ -1,7 +1,5 @@
-cmp-color-names.nvim
-====================
-
-![X11 / web color names](./colors.jpg)
+cmp-color-names.nvim 🌈
+=======================
 
 This Neovim plugin provides an
 [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) completion source
